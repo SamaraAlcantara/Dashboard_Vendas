@@ -5,6 +5,8 @@ Este repositório apresenta o desenvolvimento e a documentação de um **Dashboa
 
 O dashboard foi estruturado para transformar dados brutos em **informações estratégicas**, permitindo a visualização clara de indicadores como volume de vendas, faturamento e desempenho por produto. A proposta é oferecer uma experiência simples, intuitiva e orientada à tomada de decisão, facilitando a análise gerencial e o acompanhamento de resultados.
 
+![dash](https://github.com/user-attachments/assets/d1fa1cc0-8b03-4e5b-9f61-3c8fbd7c057e)
+
 ---
 
 ## 🎯 Objetivos
@@ -33,10 +35,15 @@ A planilha está organizada nas seguintes abas:
 | Aba 3 | Cálculos |
 | Aba 4 | Dashboard |
 
+![abas](https://github.com/user-attachments/assets/359238ea-6719-4efe-9df8-37f6f7686f11)
+
 ---
 
 ## 🧮 Funcionalidades
-- Cálculos automáticos de totais. 
+- Cálculos automáticos de totais.
+
+![tabelas](https://github.com/user-attachments/assets/86942d37-cdee-4b36-85dd-913ea32478c9)
+  
 - Geração de relatórios simplificados  
 - Dashboards com gráficos  
 
@@ -46,6 +53,8 @@ A planilha está organizada nas seguintes abas:
 1. Faça o download da planilha disponível neste repositório  
 2. Abra o arquivo no Excel, Google Sheets ou LibreOffice  
 3. Na aba Dashboard utilize os filtros da barra a esquerda para visualizar os dados em determinado periódo.
+
+![menu](https://github.com/user-attachments/assets/f325e919-d64d-48ac-8bdc-b0af0bef03f5)
 
 ---
 
